@@ -1,5 +1,4 @@
-### Hi there 👋
-!<h3 align="center">A passionate frontend developer</h3>
+### Hi, there is a passionate frontend developer 👋
 🔭 I am currently working on learning more about native application development<br>🤝 I am currently working as a web developer<br>💬 You can communicate through this email ronnyjean28@hotmail.com<br>⚡ Fun fact, I am studying at the University of the Coast, studying 9 semester of Systems Engineer.
 
 # 💻 Tech Stack:
